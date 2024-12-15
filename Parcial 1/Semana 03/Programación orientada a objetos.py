@@ -33,3 +33,5 @@ if __name__ == "__main__":
 
 # En este codigo se utilizo el metodo de encapsulamiento, este se ve en la clase ´clima'
 # donde las temperaturas y ciudad estan encapsuladas dentro de la clase.
+# Se utilizo una clase para agrupar datos y metodos
+# Es mas claro de entender, la clase y metodos pueden ser reutilizados de manera efectiva.

@@ -27,3 +27,8 @@ def main():
 # Llamada a la función principal
 if __name__ == "__main__":
     main()
+
+# Este codigo esta basado en funciones
+# No existe encapsulamiento
+# Es menos entendible a medida que crece
+# Las funciones pueden ser reutilizadas, pero estan acopladas a un flujo especifico
