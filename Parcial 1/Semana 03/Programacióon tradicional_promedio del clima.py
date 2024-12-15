@@ -1,3 +1,5 @@
+# Implemetacion de un programa en python con programacion tradicional
+
 # Función para ingresar temperaturas diarias
 def ingresar_temperaturas():
     temperaturas = []  # Crearemos una lista vacia para almacenar las temperaturas

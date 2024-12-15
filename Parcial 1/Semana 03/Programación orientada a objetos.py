@@ -1,4 +1,4 @@
-
+# Implementacion de un programa en python con POO
 class Clima:
     def __init__(self , ciudad):
         self.ciudad = ciudad    # Almacenamos la ciudad
