@@ -11,6 +11,7 @@ class Estudiante:
     def __str__(self):
         #Devuelve una representacion en cadena del estudiante
         return f"Nombre: {self.nombre}, Edad: {self.edad}, Matricula: {self.matricula}"
+
 def es_nombre_valido(nombre:str) ->bool:
     #Verifica si el nombre solo contiene letras
     return all(caracter.isalpha() or caracter.isspace() for caracter in nombre)
