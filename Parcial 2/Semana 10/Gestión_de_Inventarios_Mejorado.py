@@ -1,3 +1,5 @@
+#Mejorar el sistema de gestión de inventarios desarrollado anteriormente para que utilize archivos
+#para almacenar y recuperar la información del inventario y maneje excepciones durante la lectura y escritura de archivos
 import os
 class Producto:
     def __init__(self, nombre, cantidad, precio):  #Inicializa un nuevo producto
