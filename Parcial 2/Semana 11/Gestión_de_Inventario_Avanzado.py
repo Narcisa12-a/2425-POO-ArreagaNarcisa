@@ -1,4 +1,4 @@
-#Desarrolle un sistema de gestión de invenyatario para una tienda que incorpore las
+#Desarrolle un sistema de gestión de inventario para una tienda que incorpore las
 #colecciones en POO para un manejo eficiente de los items del inventario y almacene la información
 #del inventario en archivos.
 # Importa las bibliotecas
